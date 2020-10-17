@@ -1,0 +1,2 @@
+TOP_NUM = 30
+TEXT_SIZE = 14
